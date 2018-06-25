@@ -1,6 +1,7 @@
 Save Format v3.0(19990112)
 @begin Targets
  0 "a.pbt";
+ 1 "b.pbt";
 @end;
-DefaultTarget "a.pbt";
-DefaultRemoteTarget "a.pbt";
+DefaultTarget "b.pbt";
+DefaultRemoteTarget "b.pbt";
